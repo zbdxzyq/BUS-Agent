@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+httpx
+pydantic
+pydantic-settings
+confluent-kafka
+
+langchain
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+chromadb
+
+mcp

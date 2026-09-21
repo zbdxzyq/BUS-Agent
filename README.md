@@ -3,7 +3,8 @@
 3，运行MCP Server    python -m app.mcp_server.server
 4，运行前端           npm run dev
 
-<img width="936" height="606" alt="image" src="https://github.com/user-attachments/assets/3261ee64-404e-45a4-87f9-15760a666ef0" />
+<img width="1878" height="938" alt="cfe2940f11de6a6f8c6b5a6701f2408c" src="https://github.com/user-attachments/assets/d442e393-fe76-4658-81ec-266fafa07fd4" />
+<img width="1829" height="910" alt="a790eface36f1712cb1301ce631f6b5e" src="https://github.com/user-attachments/assets/14bd97fd-8e16-486d-ad9e-0117b486db81" />
 <img width="1605" height="931" alt="image" src="https://github.com/user-attachments/assets/7b75a2f2-0c9e-4c1d-922c-14235a6db716" />
 
 
